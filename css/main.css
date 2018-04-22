@@ -1,0 +1,14 @@
+@font-face {
+font-family: AdobeArabic;
+src: url(fonts/adobe-arabic-regular-woff);
+}
+
+.tachado{
+    text-decoration:line-through;
+}
+
+
+#exe, .navbar-fixed, .exe {
+    font-family: AdobeArabic;
+}
+
